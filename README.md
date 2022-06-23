@@ -16,4 +16,6 @@
   
   **Prophet Windows kurulumu için ayrıca bkz. https://facebook.github.io/prophet/docs/installation.html**
   **Kodu çalıştırmak için data klasöründeki excel formatlı dosyaları indirmeniz gerekmektedir.**
+   
+   
    **Proje geliştiricisi : Merve Derse**
