@@ -6,7 +6,11 @@
 
   Ekilen toplam tahıl arazileri(dekar) ve Toplam Tahıl miktarı(ton) verileri için ARIMA,
   Enflasyon verileri için Facebook Prophet kullanılmıştır.
+ 
   Arazi ve toplam üretim miktarının enflasyonla ilişkisinin incelenmesi için görselleştirme ve korelasyon hesabı yapılmıştır. *
+  
+  
+
   
   * Projede ARIMA modelinin geliştirilmesi gerekmektedir. İlgili düzenlemeleri ayrıca yapabilirsiniz.*
   
